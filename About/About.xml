@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Perfy</name>
+  <author>Bumpy</author>
+  <supportedVersions>
+      <li>1.6</li>
+  </supportedVersions>
+<packageId>Bumpy.Perfy</packageId>
+  <description>Perfiest mod</description>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+	</loadAfter>
+</ModMetaData>
